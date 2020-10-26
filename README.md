@@ -1,7 +1,9 @@
 docker-acunetix
 ====
+A craked acunetix hosted on [bitbucket voltwu](https://bitbucket.org/voltwu/acunetix-13-cracked/src/master/) repository.
 
+What you can do on my public bitbucket [repository](https://bitbucket.org/voltwu/acunetix-13-cracked/src/master/) repository.
+====
+1. Build a cracked acunetix image from scratch
+2. Run a cracked acunetix software up.
 
-This is the docker image to wrapper the 14 Day Acunetix Trial, from https://www.acunetix.com/download-8991-2/
-
-`docker run -it --rm -p 8881:13443 7dbeb7032e3d`
